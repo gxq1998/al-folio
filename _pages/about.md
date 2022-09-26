@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'> </a>Ph.D. Candidate, Yale University. Email: xueqi.guo at yale.edu
 
 profile:
   align: right
